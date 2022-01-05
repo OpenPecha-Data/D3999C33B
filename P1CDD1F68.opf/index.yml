@@ -1,0 +1,11 @@
+id: fa3beca3e63547f8a4c38363c56a9760
+annotation_type: index
+revision: '00001'
+annotations:
+  a01229172f6141e58358d4d08ea662b0:
+    parts: {}
+    span:
+    - vol: 37
+      start: 0
+      end: 8646
+    work_id: D2732
